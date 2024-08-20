@@ -122,7 +122,8 @@ Members who wish to modify the Constitution should follow the procedure as outli
     1.  The Secretary's duties shall include:
         1.  taking minutes at all General Meetings and Committee Meetings of the WCR;
         1.  maintaining an up-to-date version of this Constitution and its associated Standing Orders and ensuring that it is available for inspection in the College Office; 
-        1.  managing the WCR website; and calling and chairing all General Meetings of the WCR in conjunction with the president.
+        1.  managing the WCR website; and 
+        1.  calling and chairing all General Meetings of the WCR in conjunction with the president.
 
     1.  The Diversity, Equality, and Welfare Officers' duties shall include:
         1.  representing the WCR on all appropriate College committees;
