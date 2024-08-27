@@ -1,4 +1,8 @@
 <style type="text/css">
+header {
+  display: none;
+}
+
 ol {
   list-style-type: none;
   counter-reset: item;
