@@ -1,4 +1,8 @@
 <style type="text/css">
+header {
+  display: none;
+}
+
 ol {
   list-style-type: none;
   counter-reset: item;
@@ -36,6 +40,7 @@ ol li ol li ol li:before {
 
 <p>
 <center>
+<img alt="University College Logo" src="https://www.univ.ox.ac.uk/wp-content/themes/univ/assets/images/univ_logo@2x.png" width="250px"/> <br> <br>
 <b>
 University College<br>
 Weir Common Room<br>
@@ -49,22 +54,50 @@ This is a *non-verified* version of the constitution created to improve accessib
 
 You can view the source code at the [GitHub Repository](https://github.com/univox-students/constitution).
 
-Members who wish to modify the Constitution should follow the procedure as outlined in Section 12.
+Members who wish to modify the Constitution should follow the procedure as outlined in [Section 12](#amendments-to-this-constitution-or-to-standing-orders).
+
+# Table of Contents
+**[Constitution](#constitution)**
+1. [Name](#name)
+1. [Objects](#objects)
+1. [Membership](#membership)
+1. [Committee](#committee)
+1. [Duties of Committee Members](#duties-of-committee-members)
+1. [General Meetings](#general-meetings)
+1. [Elections](#elections)
+1. [Resignations and by-elections](#resignations-and-by-elections)
+1. [Finance](#finance)
+1. [Complaints](#complaints)
+1. [Interpretation](#interpretation)
+1. [Amendments to this Constitution or to Standing Orders](#amendments-to-this-constitution-or-to-standing-orders)
+1. [Sub-committees](#sub-committees)
+
+**[Standing Order](#standing-order)**
+1. [Agenda](#agenda)
+1. [Chairperson](#chairperson)
+1. [Speaking](#speaking)
+1. [Motions](#motions)
+1. [Amendments](#amendments)
+1. [Procedural Motions](#procedural-motions)
+1. [Voting](#voting)
+1. [Points of information and order](#points-of-information-and-order)
+
+**[WCR Charity Policy](#wcr-charity-policy)**
 
 # Constitution
 
-1. Name
+1. <a id="name">Name</a>
     1.  The name of the association shall be the Weir Common Room. It shall also be known as the WCR and shall be referred to as the WCR throughout this Constitution and its associated Standing Orders. The WCR shall be the Middle Common Room of University College, Oxford.
 
 
-1. Objects
+1. <a id="objects">Objects</a>
     1.  The objectives of the WCR shall include:
         1.  promoting the interests and welfare of WCR members;
         1.  organising social activities among WCR members;
         1.  representing the interests of WCR members to the Governing Body of the College.
 
 
-1. Membership
+1. <a id="membership">Membership</a>
     1.  All junior members of University College who are graduates shall be eligible to be full members of the WCR. The College shall determine which other persons, if any, shall be eligible to be full members of the WCR.
 
     1.  Any person who is eligible to be a full member of the WCR shall be a full member. A person may give up full membership, associate membership, or honorary membership by notifying the WCR President of his or her desire to do so. No person who is not a full member may attend any WCR meeting, vote in any WCR meeting, vote in any WCR election or stand for any office in the WCR.
@@ -76,7 +109,7 @@ Members who wish to modify the Constitution should follow the procedure as outli
     1.  Honorary membership may be withdrawn if withdrawal is supported by a two-thirds majority of those present and voting at any General Meeting provided that the notification of the meeting required by this Constitution indicates that the matter will be an agenda item and provided that the honorary member or members affected have been invited to attend the meeting.
 
 
-1. Committee
+1. <a id="committee">Committee</a>
     1.  There shall be a Committee consisting of a President, a Vice-President who shall also be the Treasurer, a Secretary, one or two Diversity, Equality, and Welfare Officers, an External Affairs Officer, an Environment Officer, and three or four Social Secretaries, a Women’s Officer; an Ethnic Minorities & Racial Equality Officer; an LGBTQ+ Officer; an International Students’ Officer; a Mature Students & Families Officer; and a Students with Disabilities & Accessibility Officer
 
     1.  The positions of Women’s Officer, Ethnic Minorities & Racial Equality Officer, LGBTQ+ Officer, International Students’ Officer, Mature Students & Families Officer, and Students with Disabilities & Accessibility Officer, may be held in conjunction with another Committee position, including each other, except for the positions of President and Vice-President/Treasurer.
@@ -97,7 +130,7 @@ Members who wish to modify the Constitution should follow the procedure as outli
 
     1. Decisions of Committee Meetings shall be taken by simple majority vote. In the event of a tie the Chairperson shall have a casting vote. If there is a tie and the Chairperson chooses not to exercise his or her casting vote the motion, amendment or procedural motion being voted on is lost.
 
-1.  Duties of Committee Members
+1.  <a id="duties-of-committee-members">Duties of Committee Members</a>
     1.  All members of the Committee shall act in accordance with this Constitution.
 
     1.  All members of the Committee shall have the following duties:
@@ -199,7 +232,7 @@ Members who wish to modify the Constitution should follow the procedure as outli
         1. liaising with the College on matters arising
         1. to sit on the WCR’s Welfare Sub-Committee
 
-1.  General Meetings
+1.  <a id="general-meetings">General Meetings</a>
     1.  The President or Secretary shall call at least two Ordinary General Meetings per year. The first Ordinary General Meeting shall be held during Michaelmas Term each year.
 
     1.  An Extraordinary General Meeting may be called by the President at any time.
@@ -226,7 +259,7 @@ Members who wish to modify the Constitution should follow the procedure as outli
 
     1. There shall be a set of Standing Orders to govern the conduct of business at General Meetings. These Standing Orders shall form a schedule to this Constitution and shall be considered part of it. Any Standing Order may be suspended for part or all of a meeting by a two-thirds majority of those present and voting.
 
-1.  Elections
+1.  <a id="elections">Elections</a>
     1.  The term of office for each committee position shall commence on Sunday of Seventh Week of Hilary Term and end on Saturday of Sixth Week of Hilary Term the following year.
 
     1. The election consists of four sequential stages, which from beginning to end must last no more than three weeks:
@@ -274,34 +307,34 @@ Members who wish to modify the Constitution should follow the procedure as outli
 
     1. If an election is held for a position and no nominations are received, the Committee may appoint a full member of the WCR to fill the position until the end of term of office for that role.
 
-1.  Resignations and By-elections
+1.  <a id="resignations-and-by-elections">Resignations and By-elections</a>
     1.  Any Committee member may resign at any time.
     1.  The Committee may decide if any Committee member who fails to implement in full any duties assigned to him or her by sections 5.2 – 5.15 shall be deemed to have resigned.
     1.  Any Committee member shall be deemed to have resigned if he or she is rusticated or sent down or if any motion of no confidence in him or her is passed at a General Meeting.
     1.  If a Committee position becomes vacant before the end of the term of office for that position a by-election shall be held before the end of the term following the term in which the vacancy was made. In the interim, the Committee can appoint a full member of the MCR to fill the position until the next election or by-election.
     1.  All by-elections shall be conducted in accordance with sections 7.2 and 7.4-7.18 inclusive.
 
-1.  Finance
+1.  <a id="finance">Finance</a>
     1.  All major items of expenditure must be approved by a General Meeting. The Treasurer will decide what constitutes a major expenditure.
     1.  The Vice-President/Treasurer shall produce an annual budget for approval by a General Meeting during Michaelmas Term and approval by the Governing Body of the College.
     1.  Following the end of each financial year the Vice-President/Treasurer shall publish a financial report, present it to a General Meeting and make it available to the Governing Body of the College. The report shall include receipts and expenditures during that year and must contain a list of all external organisations to which the WCR has made donations and details of those donations. It shall also include a balance sheet reflecting the position of the WCR accounts at the end of the financial year concerned.
     1.  The WCR may include in its budget a sum dedicated to charitable donations, not to exceed £500 per academic year. The allocation of such funds shall follow the guidelines set in the WCR Charity policy. The WCR Charity policy is included as a schedule to the Constitution and can be amended through a motion passed in any Ordinary General Meeting.
 
-1.  Complaints
+1.  <a id="complaints">Complaints</a>
     1.  Complaints about the management of the WCR may be made to the WCR President or to the Dean of Graduates.
 
-1.  Interpretation
+1.  <a id="interpretation">Interpretation</a>
     1.  In the event of a dispute as to the interpretation of any part of this Constitution or its associated Standing Orders the President must rule on the matter if requested to do so by any full member of the WCR. The President's ruling may be challenged in any General Meeting but a decision on the President's ruling reached by a General Meeting shall be final.
 
-1.  Amendments to this Constitution or to Standing Orders
+1.  <a id="amendments-to-this-constitution-or-to-standing-orders">Amendments to this Constitution or to Standing Orders</a>
     1.  Amendments to this Constitution or to its associated Standing Orders shall be made if and only if they receive a two-thirds majority of those present and voting at a General Meeting.
     1.  Any amendment to this Constitution or to its associated Standing Orders must be submitted in writing to the Secretary at least three days in advance of the General Meeting at which it is to be proposed along with the names of the proposer and seconder (who must both be full members) and must specify the words to be deleted, inserted and/or substituted. The Secretary shall inform the WCR as soon as possible after they are submitted.
 
-1.  Sub-Committees
+1.  <a id="sub-committees">Sub-Committees</a>
     1.  There is to be a welfare sub-committee which meets at least once a term, to be chaired by the Diversity, Equality, and Welfare Officers and to be attended by any full member of the WCR.
 
 # Standing Order
-1.  Agenda
+1.  <a id="agenda">Agenda</a>
     1.  The business of General Meetings shall be taken in the following order:
         1.  Minutes of the last General Meeting
         1.  Matters arising from the minutes
@@ -311,19 +344,19 @@ Members who wish to modify the Constitution should follow the procedure as outli
         1.  Emergency motions
         1.  Any other business
 
-1.  Chairperson
+1.  <a id="chairperson">Chairperson</a>
     1.  The Chairperson shall be responsible for keeping the meeting in order. He or she shall be the sole interpreter of these Standing Orders while he or she is chairing the meeting, subject to the right of any member to challenge his or her ruling in accordance with Standing Order 6.2.
 
     1.  The person chairing the meeting shall not speak on a motion or propose and second a motion unless he or she vacates the Chair for the whole of the debate on that motion. The person chairing the meeting shall also vacate the Chair when the meeting is dealing with any challenge to a ruling that he or she has made on the interpretation of the Constitution or of these Standing Orders.
 
     1.  All General Meetings shall be chaired by the President unless he or she is absent or unable to do so. If the Presidency is vacant, or if the President is absent or unable to chair the meeting, it shall be chaired by the holder of the first non-vacant committee position in the order of priority given in section 6.5 of the Constitution whose holder is not absent or unable to chair the meeting. If there are no committee members who are not absent or unable to chair the meeting and the Chairperson has not been appointed by the Dean of Graduates in accordance with section 6.6 of the Constitution a Chairperson shall be elected by the meeting.
 
-1.  Speaking
+1.  <a id="speaking">Speaking</a>
     1.  All speakers shall address the Chair. The Chairperson shall decide right of priority in speaking.
 
     1.  No person shall exceed three minutes in his or her speech without the express permission of the meeting.
 
-1.  Motions
+1.  <a id="motions">Motions</a>
     1.  Every motion shall have a proposer and a seconder.
 
     1.  The proposer shall move the motion. No motion shall be debated unless the person named as proposer when it was submitted is present or another full member proposes it instead.
@@ -332,7 +365,7 @@ Members who wish to modify the Constitution should follow the procedure as outli
 
     1. The proposer may sum up the debate either immediately before the substantive motion is put to the vote or immediately before the first amendment that he or she, as proposer, has not accepted is put to the vote.
 
-1.  Amendments
+1.  <a id="amendments">Amendments</a>
     1. Every amendment shall have a proposer and a seconder.
     
     1. If an amendment is carried which was not accepted by the proposer of the motion, the amended motion shall become the substantive motion and the proposer of the amendment shall then be treated as the proposer of the motion for the purposes of Standing Orders 4.4, 5.2., 6.4 and 7.2.
@@ -341,7 +374,7 @@ Members who wish to modify the Constitution should follow the procedure as outli
     
     1. No amendments to constitutional motions or amendments shall be moved.
 
-1.  Procedural Motions
+1.  <a id="procedural-motions">Procedural Motions</a>
     1.  Every procedural motion shall have a proposer and a seconder.
 
     1.  The following procedural motions may be put:
@@ -359,12 +392,12 @@ Members who wish to modify the Constitution should follow the procedure as outli
 
     1. If procedural motion (e) is moved, the mover must specify the one or more Standing Orders which are to be suspended and the length of time (not exceeding 30 minutes) for which the suspension is to last. Procedural motion (e) shall be carried if and only if it receives a two-thirds majority of those present and voting (ie excluding abstentions).
 
-1.  Voting
+1.  <a id="voting">Voting</a>
     1. Voting on motions, amendments and procedural motions shall be by show of hands unless procedural motion (c) has been carried. When a vote is taken by show of hands the Chairperson shall ask for votes in favour of the motion, amendment or procedural motion and then for votes against.
 
     1. If procedural motion (c) above has been carried, each full member present shall be given a slip on which he or she should write "FOR", "AGAINST" or "ABSTAIN". The Chairperson shall appoint two scrutineers who shall count the votes and determine whether the motion or amendment is carried. The proposer and seconder of a motion or amendment being voted on and the proposer and seconder of any motion to which an amendment being voted on applies shall be ineligible to be scrutineers.
 
-1.  Points of Information and Order
+1.  <a id="points-of-information-and-order">Points of Information and Order</a>
     1. Points of information may be raised by any full member provided that the speaker occupying the floor signifies his or her intention of giving way.
     1. Points of order, which take precedence over any other business, may be raised by any full member. They must be framed as a question to the Chair and be related to the conduct of the meeting.
 
