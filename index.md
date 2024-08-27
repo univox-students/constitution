@@ -50,7 +50,7 @@ This is a *non-verified* version of the constitution created to improve accessib
 
 You can view the source code at the [GitHub Repository](https://github.com/univox-students/constitution).
 
-Members who wish to modify the Constitution should follow the procedure as outlined in Section 12.
+Members who wish to modify the Constitution should follow the procedure as outlined in [Section 12](#amendments-to-this-constitution-or-to-standing-orders).
 
 # Table of Contents
 **[Constitution](#constitution)**
